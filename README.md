@@ -46,12 +46,12 @@ Clone the repo
 ## Options
 1. SignUp
 2. LogIn
-  1. Store Credentials
-  2. View Credentials
-  3. View Apps
-  4. Modify stored Credentials
-  5. Edit profile
-  6. Log out
+   1. Store Credentials
+   2. View Credentials
+   3. View Apps
+   4. Modify stored Credentials
+   5. Edit profile
+   6. Log out
 3. View Users
 4. Generate password
 5. Exit
