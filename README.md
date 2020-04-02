@@ -5,6 +5,7 @@ Step 1:
 
 Clone the repo
 
+
 Step 2:
 
 1)Install mysql if not installed
@@ -14,6 +15,7 @@ Step 2:
 3)pip3 install mysql.connector
 
 4)pip3 install pyperclip
+
 
 Step 3:
 
@@ -28,6 +30,7 @@ Step 3:
 5)Comment line number 15 and uncomment the lines from 20 to 22
 
 6)Run python3 dbCreator.py
+
 
 Step 4:
 
