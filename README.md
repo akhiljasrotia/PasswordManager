@@ -10,7 +10,7 @@ Clone the repo
 
 1. Install mysql if not installed
 
-2.Install python 3.x+ if not installed 
+2. Install python 3.x+ if not installed 
 
 3. `pip3 install mysql.connector`
 
@@ -40,5 +40,6 @@ Clone the repo
 
 3. Run `python3 main.py`
 
-Enjoy your password manager and generator.
+
+## Enjoy your password manager and generator!
 
