@@ -26,6 +26,5 @@ Step 4:
 2)In line number 16 , enter the password for your mysql account (same as step 3 point 2)
 3)Run main.py
 
-Enjoy your password manager and generator!
-
+Enjoy your password manager and generator.
 
