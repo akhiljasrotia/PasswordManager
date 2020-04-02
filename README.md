@@ -1,4 +1,4 @@
-# How to set up and use
+# How to set up?
 
 
 ## Step 1:
@@ -39,6 +39,22 @@ Clone the repo
 2. In line number 16 , enter the password for your mysql account (same as step 3 point 2)
 
 3. Run `python3 main.py`
+
+
+# How to use?
+
+## Options
+1. SignUp
+2. LogIn
+  1. Store Credentials
+  2. View Credentials
+  3. View Apps
+  4. Modify stored Credentials
+  5. Edit profile
+  6. Log out
+3. View Users
+4. Generate password
+5. Exit
 
 
 ## Enjoy your password manager and generator!
